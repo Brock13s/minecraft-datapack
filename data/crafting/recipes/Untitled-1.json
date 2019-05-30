@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped"
+	"pattern": [
+		"###",
+		"#C#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:green_wool"
+		}
+		"C": {
+			"item": "minecraft:creeper_head"
+		}
+	},
+	"result": {
+		"item": "minecraft

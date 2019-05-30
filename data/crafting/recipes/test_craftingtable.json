@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  /",
+        " E ",
+        "/  "
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "E": {
+            "item": "minecraft:enchanted_book"
+        }
+    },
+    "result": {
+        "item": "minecraft:debug_stick",
+        "count": 1
+    }
+}
