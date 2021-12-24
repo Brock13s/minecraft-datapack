@@ -5,3 +5,5 @@ This datapack adds new custom recipes into minecraft. To put it in minecraft dow
 
 
 Happy Crafting :)
+
+edit: This is not going to work on latest version and is deprecated
